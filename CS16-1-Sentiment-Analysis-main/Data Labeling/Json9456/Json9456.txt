@@ -1,0 +1,1 @@
+Hi, this folder is created to use Git : )
